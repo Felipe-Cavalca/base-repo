@@ -11,8 +11,6 @@ It includes common files like:
 
 - ✅ Issue templates
 - ⚙️ GitHub Actions workflows
-- 🔐 Security policies
-- 🤝 Contribution guidelines
 - 📄 License
 - 🏷️ Label configuration
 - 💰 Funding metadata
@@ -31,8 +29,6 @@ git clone https://github.com/Felipe-Cavalca/base-repo.git
 .github/
 ├── ISSUE_TEMPLATE/       # Issue templates
 ├── workflows/            # GitHub Actions workflows
-├── CODE_OF_CONDUCT.md    # Code of conduct
-├── CONTRIBUTING.md       # Contribution guide
 ├── FUNDING.yml           # Funding metadata
 ├── labels.yml            # Label configuration
 └── PULL_REQUEST_TEMPLATE.md
@@ -59,8 +55,6 @@ Ele inclui:
 
  - ✅ Templates de issues
  - ⚙️ Workflows do GitHub Actions
- - 🔐 Políticas de segurança
- - 🤝 Guia de contribuição
  - 📄 Licença
  - 🏷️ Configuração de labels
  - 💰 Metadados de financiamento
@@ -80,8 +74,6 @@ git clone https://github.com/Felipe-Cavalca/base-repo.git
 .github/
 ├── ISSUE_TEMPLATE/       # Templates de issues
 ├── workflows/            # Workflows do GitHub Actions
-├── CODE_OF_CONDUCT.md    # Código de conduta
-├── CONTRIBUTING.md       # Guia de contribuição
 ├── FUNDING.yml           # Metadados de financiamento
 ├── labels.yml            # Configuração de labels
 └── PULL_REQUEST_TEMPLATE.md
@@ -92,7 +84,6 @@ git clone https://github.com/Felipe-Cavalca/base-repo.git
 
 LICENSE                   # Licença do projeto
 README.md                 # Este README
-SECURITY.md               # Política de segurança
 ```
 
 ### 📌 Versões
